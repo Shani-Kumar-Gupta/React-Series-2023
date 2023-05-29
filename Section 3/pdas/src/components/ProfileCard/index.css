@@ -1,0 +1,17 @@
+.profile__card {
+  display: flex;
+  border: 1px solid black;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  background: transparent;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
