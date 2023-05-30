@@ -1,11 +1,11 @@
 .profile__card {
   display: flex;
-  border: 1px solid black;
+  width: 20%;
 }
 
 .logo {
-  width: 200px;
-  height: 200px;
+  /* width: 200px;
+  height: 200px; */
   background: transparent;
 }
 
